@@ -1,0 +1,15 @@
+# Build outputs
+build/
+cuda_cpp_interview_lab
+
+# Profiling outputs
+reports/
+*.ncu-rep
+
+# Intermediate files
+*.o
+*.d
+
+# Editor / OS
+.vscode/
+.DS_Store
