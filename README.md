@@ -9,6 +9,7 @@
 如果你准备“看懂后从零重写”，请直接看：
 
 - [`README_REWRITE.md`](./README_REWRITE.md)
+- [`TARGETED_REWRITE_PLAN.md`](./TARGETED_REWRITE_PLAN.md)
 
 ---
 
